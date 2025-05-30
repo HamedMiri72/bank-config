@@ -3,10 +3,10 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Bank accounts related prod(refresh) APIs"
+  message: "Welcome to Bank accounts related production APIs"
   contactDetails:
     name: "tem kumar- prod Lead"
-    email: "{cipher}467b76dc4b96d665e9c637bfc11c39fe71a9a62b07e3705f1c6f37017da2e07b"
+    email: "tem72@gmail"
   onCallSupport:
     - (555) 555-1218
     - (555) 555-1390
